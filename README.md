@@ -2,7 +2,7 @@
 
 La bibliothèque `InputListeDeroulante-1.0` permet de créer un champ de saisie avec une liste déroulante personnalisée. Elle offre des options de sélection multiple, de recherche, et diverses personnalisations pour rendre vos formulaires plus interactifs.
 
-[Voir la démo](https://votre-site.com/demo)
+[Voir la démo](https://oriloo.github.io/InputListeDeroulante-1.0/)
 
 ## Installation
 
